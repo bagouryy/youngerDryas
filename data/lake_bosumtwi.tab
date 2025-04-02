@@ -1,0 +1,234 @@
+# Lake Bosumtwi, Ghana 21,000 Year Leaf Wax Hydrogen Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/18355
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/africa/bosumtwi2015dd.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Paleolimnology
+#--------------------
+# Contribution_Date
+#	Date: 2015-04-08
+#--------------------
+# Title
+#	Study_Name: Lake Bosumtwi, Ghana 21,000 Year Leaf Wax Hydrogen Isotope Data
+#--------------------
+# Investigators
+# 	Investigators: Shanahan, T.M.; McKay, N.P.; Hughen, K.A.; Overpeck, J.T.; Otto-Bliesner, B.; Heil, C.W.; King, J.; Scholz, C.A.; Peck, J.
+#--------------------
+# Description_and_Notes
+#	Description: Hydrogen (dD) and carbon (d13C) isotope data from leaf waxes in sediments collected in Lake Bosumtwi, Ghana, covering the past 21,000 years. 
+#--------------------
+# Publication 
+# 	Authors: Timothy M. Shanahan, Nicholas P. McKay, Konrad A. Hughen, Jonathan T. Overpeck, Bette Otto-Bliesner, Clifford W. Heil, John King, Christopher A. Scholz, John Peck
+#	Published_Date_or_Year: 2015-02-01      
+#	Published_Title: The time-transgressive termination of the African Humid Period
+#	Journal_Name: Nature Geoscience 
+#	Volume: 8
+#	Edition: 
+#	Issue: 2
+#	Pages: 140-144
+#	DOI: 10.1038/ngeo2329
+#	Online_Resource: http://www.nature.com/ngeo/journal/v8/n2/abs/ngeo2329.html
+#	Full_Citation: 
+#	Abstract: During the African Humid Period about 14,800 to 5,500 years ago, changes in incoming solar radiation during Northern Hemisphere summers led to the large-scale expansion and subsequent collapse of the African monsoon. Hydrologic reconstructions from arid North Africa show an abrupt onset and termination of the African Humid Period. These abrupt transitions have been invoked in arguments that the African monsoon responds rapidly to gradual forcing as a result of nonlinear land surface feedbacks. Here we present a reconstruction of precipitation in humid tropical West Africa for the past 20,000 years using the hydrogen isotope composition of leaf waxes preserved in sediments from Lake Bosumtwi, Ghana. We show that over much of tropical and subtropical Africa the monsoon responded synchronously and predictably to glacial reorganizations of overturning circulation in the Atlantic Ocean, but the response to the relatively weaker radiative forcing during the African Humid Period was more spatially and temporally complex. A synthesis of hydrologic reconstructions from across Africa shows that the termination of the African Humid Period was locally abrupt, but occurred progressively later at lower latitudes. We propose that this time-transgressive termination of the African Humid Period reflects declining rainfall intensity induced directly by decreasing summer insolation as well as the gradual southward migration of the tropical rainbelt that occurred during this interval.
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: US National Science Foundation 
+#	Grant: EAR0601998, EAR0602355, AGS0402010, ATM0401908, ATM0214525, ATM0096232, AGS1243125
+#------------------
+# Site_Information 
+#	Site_Name: Lake Bosumtwi
+#	Location: Africa>Western Africa>Ghana
+#	Country: Ghana
+#	Northernmost_Latitude: 6.5
+#	Southernmost_Latitude: 6.5
+#	Easternmost_Longitude: -1.41 
+#	Westernmost_Longitude: -1.41
+#	Elevation: 300 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: Bosumtwi2015dD
+#	Earliest_Year: 21025
+#	Most_Recent_Year: 68
+#	Time_Unit: Cal. Year BP
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_calBP	age, , , calendar years before present, , , , ,N
+##d13CleafwaxC31	delta 13C, leaf wax C-31 n-alkane, , per mil PDB, , lake sediments, , analytical technique: IRMS,N
+##d2HleafwaxC31ivc	delta2H, leaf wax C-31 n-alkane, , per mil VSMOW, , lake sediments, corrected for ice volume and plant, analytical technique: IRMS,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:  
+#
+age_calBP	d13CleafwaxC31	d2HleafwaxC31ivc
+68.8162	-28.4	-19.46396913
+217.1656	-30.12	-19.60504674
+360.0397	-31	-12.65418617
+404.7102	-28.9	-15.05628518
+488.1144	-29.94	-13.75203032
+605.0412	-28.52	-13.01432713
+685.8815	-27.59	-16.1091338
+806.4	-27.98	-14.75356815
+1041.7348	-29.4	-20.10874637
+1222.792	-31.35	-23.34414917
+1259.858	-27.64	-12.32100178
+1366.3	-26.98	-21.63264613
+1394.09	-28.95	-23.38241003
+1443.82	-27.55	-14.71003446
+1475.12	-27.23	-12.7309263
+1662.828	-29.59	-17.59863021
+1863.533	-30.36	-20.59286656
+2060.414	-27.67	-27.15355292
+2108.924	-29.31	-29.39129143
+2157.103	-27.59	-21.83075596
+2321.706	-28.76	-26.76890026
+2590.14	-27.12	-33.0070385
+2606.908	-27.53	-28.69296335
+2922.232	-28.49	-30.51812587
+3122.7	-26.08	-30.42098414
+3385.05	-28.28	-34.0451526
+3509.501	-29.62	-38.3202121
+3736.5	-28.4	-35.51082511
+3996.8	-28.3	-37.38243571
+4007.85	-29.89	-36.16915807
+4278.45	-30.71	-40.22465609
+4549.75	-31.73	-40.04762996
+4788.584	-30.94	-40.65487461
+4855.78	-31.27	-38.44370307
+4947.8	-31.98	-38.06135712
+5215.3	-31.58	-38.82225538
+5409.612	-31.99	-33.40065308
+5568.4	-29.81	-29.59880967
+5715	-25.03	-28.28070656
+5861.6	-24.27	-21.26622969
+6037.5	-26.48	-26.20239096
+6272	-27.93	-30.21146882
+6494.78	-26.32	-33.32311641
+6833	-27.32	-26.59930652
+6911.389	-28.83	-28.45693972
+6967.68	-24.9	-26.12649345
+7131.9	-28.84	-36.79286194
+7315.404	-29.91	-31.91880847
+7549.604	-27.57	-38.64228765
+7803.148	-25.18	-26.53381761
+7962.3	-28.72	-33.36563204
+8177.564	-29.32	-30.31240615
+8332.1	-27.93	-31.98575803
+8456.5	-29.1	-39.60859139
+8602.25	-26.29	-23.34119872
+8686.848	-25.89	-39.09905175
+8706.4	-25.8	-36.53175302
+8893.9	-28.3	-32.19553338
+9081.4	-27.68	-43.34735325
+9359.291	-27.83	-38.73624273
+9713.978	-28.38	-44.38984335
+9836.6	-26.64	-41.13509661
+10094.45	-26.91	-38.60999657
+10352.3	-25.49	-34.64290763
+10551.775	-28.92	-43.89651036
+10747.3	-27.4	-34.99837728
+10974.425	-27.87	-29.44106661
+11004.05	-26.93	-37.54427255
+11122.5	-25.48	-30.83189549
+11318.1	-27.77	-27.94196334
+11494	-25.03	-23.52926896
+11572.331	-24.99	-21.62804948
+11669.9	-22.84	-20.32638572
+11958.5652	-21.76	-21.02846084
+12201.3063	-22.38	-23.43381428
+12722.2769	-21.59	-24.40865612
+12769.1217	-20.88	-21.02625732
+13006.1846	-23.15	-23.67320526
+13336.9371	-24.49	-34.4161572
+13432.0462	-26.23	-32.56619551
+13582.5068	-24.92	-27.21237139
+13691.8958	-26.21	-30.82967076
+13828.7914	-25.3	-31.42723076
+14014.506	-23.98	-25.41199392
+14086.8299	-24	-29.3770043
+14373.7282	-24.95	-28.57323948
+14401.3147	-24.82	-29.60784859
+14571.1747	-24.54	-32.90094535
+14719.8164	-23.43	-25.81771075
+14804.7682	-19.39	-23.58791173
+14858.3729	-19.02	-21.439957
+14862.3379	-18.89	-23.42936938
+14925.5482	-18.24	-19.50350873
+15004.1112	-18.88	-22.5074489
+15031.2081	-18.32	-23.14310336
+15040.8721	-18.69	-20.69897906
+15084.1841	-18.3	-15.86093457
+15088.9557	-19.13	-18.4582671
+15093.38	-18.78	-17.14942548
+15159.0022	-18.66	-14.40551051
+15174.7085	-19.12	-16.94404887
+15262.2241	-18.97	-13.47866456
+15271.6614	-18.92	-15.48880327
+15385.8991	-18.29	-17.09412622
+15415.8317	-18.87	-20.34266426
+15438.2179	-19.11	-17.75853042
+15535.3998	-18.5	-15.49319399
+15612.581	-19.03	-14.5202816
+15702.1865	-19.05	-13.82978588
+15763.6401	-19.21	-12.40540839
+15776.3932	-19.16	-13.56190393
+15791.8681	-18.57	-12.32607904
+15804.4601	-20.4	-17.03220396
+15866.4377	-18.87	-18.271299
+15908.9298	-19.09	-13.37505965
+16056.6614	-18.42	-14.89639579
+16073.3276	-18.65	-13.60589193
+16222.3635	-19.66	-13.70104558
+16325.8013	-19.41	-14.12894929
+16414.5873	-18.38	-13.92879327
+16470.3154	-18.78	-12.87926867
+16532.9407	-19.12	-14.17409411
+16635.7286	-19.54	-14.10971682
+16704.0847	-19.03	-12.96964503
+16813.6378	-18.92	-12.78336583
+17073.205	-18.61	-10.709872
+17248.617	-18.79	-12.8919486
+17426.8495	-19.09	-12.25821344
+17576.0888	-20.24	-16.50008178
+17604.1009	-18.93	-18.73024609
+17802.353	-19.61	-21.87330189
+18022.5011	-18.95	-22.1458028
+18359.4	-19.33	-19.79406705
+18522.2	-18.83	-22.77342921
+18709.35	-17.98	-20.20251505
+19057.3	-18.47	-21.17253924
+19467.4	-18.61	-24.5163766
+19870.744	-18.61	-23.14733056
+20066.37	-18.88	-25.75379661
+20093.8	-17.84	-23.46411277
+20109.67	-18.84	-22.18681827
+20130.89	-17.28	-23.08574299
+20186.8	-19.5	-23.17578947
+20509.3	-18.3	-20.84043002
+20816.93	-18.67	-20.64578527
+21025.98	-19.33	-25.01462367
